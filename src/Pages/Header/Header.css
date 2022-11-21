@@ -1,0 +1,7 @@
+.header{
+    height: auto;
+    background: linear-gradient(rgba(33,33,33,0.522),
+    rgba(33,33,0.522)), url(../../assets/header-cover.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
